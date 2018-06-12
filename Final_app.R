@@ -186,9 +186,7 @@ ui <- fluidPage(theme = shinytheme("lumen"),
                   )
                 ),
                 hr(),
-                print("~~~Created By: Nikhil Lohiya~~~~"),
-                br(),
-                print("~~~Special Thanks to: Taranpreet Singh~~~~")
+                br()
 )
 
 
